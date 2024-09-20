@@ -55,7 +55,7 @@
             this.chkReceiveEmail.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // button1
-            // 
+        
             this.button1.Enabled = false;
             this.button1.Location = new System.Drawing.Point(142, 163);
             this.button1.Name = "button1";
